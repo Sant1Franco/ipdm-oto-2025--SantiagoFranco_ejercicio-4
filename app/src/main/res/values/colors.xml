@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo_tarjeta">#2C5364</color>
+    <color name="verde_android">#D2E8D4</color>
+    <color name="texto_blanco">#FFFFFF</color>
+</resources>

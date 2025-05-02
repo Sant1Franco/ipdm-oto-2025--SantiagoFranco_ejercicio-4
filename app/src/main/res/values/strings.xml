@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjetas De Presentacion</string>
+    <string name="nombre">Santiago Franco</string>
+    <string name="titulo">Android Developer Extraordinaire</string>
+    <string name="telefono">+11 (123) 444 555 666</string>
+    <string name="red_social">\@AndroidDev</string>
+    <string name="email">santi.franco@android.com</string>
+</resources>
