@@ -11,4 +11,7 @@ Aplicación Android desarrollada en Kotlin con Jetpack Compose que muestra una t
 **Técnicas aplicadas** 
 - Uso de `Column`, `Row` y `Box` para el layout  
 - Modificadores: `padding`, `size`, `align` y `offset`  
-- Externalización de strings y recursos  
+- Externalización de strings y recursos
+
+## Captura de Pantalla  
+![App en ejecución](Captura4.png)
